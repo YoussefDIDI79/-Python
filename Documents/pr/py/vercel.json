@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "public": true,
+  "functions": {},
+  "routes": [
+    {
+      "src": "/.*",
+      "dest": "/index.html"
+    }
+  ],
+  "cleanUrls": true,
+  "trailingSlash": false
+}
